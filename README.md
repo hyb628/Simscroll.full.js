@@ -1,4 +1,6 @@
 # slimScroller.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hyb628/Simscroll.full.js.svg)](https://greenkeeper.io/)
 A slim smooth-scrolling script under 350 bytes (gzipped), with no other dependencies (No jQuery).
 
 ## Two versions
